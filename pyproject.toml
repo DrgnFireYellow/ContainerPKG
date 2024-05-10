@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 docker = "^7.0.0"
+typer = "^0.12.3"
 
 
 [build-system]
